@@ -1,6 +1,9 @@
 # slack-always-online
 Tampermonkey script to keep slack always online
 
+Source: 
+https://ericdraken.com/slack-always-stay-active
+
 ```
 // ==UserScript==
 // @name         Slack: Always Stay Active
@@ -500,4 +503,5 @@ Tampermonkey script to keep slack always online
         }
     })
 });
+
 ```
